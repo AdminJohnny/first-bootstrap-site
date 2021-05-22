@@ -2,4 +2,6 @@
 
 Dummy landing page using Bootstrap 4
 
-https://adminjohnny.github.io/whiskey-drop/
+The Whiskey Drop site is [here](https://adminjohnny.github.io/whiskey-drop/)
+
+
